@@ -143,9 +143,9 @@ if __name__ == "__main__":
     users = [
         # ("manologimenez322@gmail.com", "Ticket2++"),
         ("annielito590@gmail.com", "Ticket2++"),
-        # ("annielmarrero@gmail.com", "Ticket2++"),
-        # ("marientcorrales@gmail.com", "Ticket2++"),
-        # ("carlosgarciasoko@gmail.com", "Ticket2++")
+        ("annielmarrero@gmail.com", "Ticket2++"),
+        ("marientcorrales@gmail.com", "Ticket2++"),
+        ("carlosgarciasoko@gmail.com", "Ticket2++")
     ]
     customers = []
     tickets = []
